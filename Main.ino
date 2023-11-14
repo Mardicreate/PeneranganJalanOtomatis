@@ -3,7 +3,7 @@ const int pinled = 6;
 const int sensorpir = 4;
 int data ;
 int statuspir = 0;
-
+naufal bau
 //brightness = 0;
 
 void setup() {
